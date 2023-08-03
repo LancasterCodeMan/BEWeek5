@@ -1,6 +1,6 @@
 package videoCurriculum;
 
-public interface Logger {
+public interface LoggerVideo {
 	
 	public void info(String info);
 	public void warning(String warning);
