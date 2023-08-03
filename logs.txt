@@ -1,0 +1,4 @@
+INFO: Tue Aug 01 14:31:23 CDT 2023 - Hello
+WARNING: Tue Aug 01 14:31:23 CDT 2023 - This is a warning
+ERROR: Tue Aug 01 14:31:23 CDT 2023 - Oops, this is an error!
+FATAL: Tue Aug 01 14:31:23 CDT 2023 - Fatal error
