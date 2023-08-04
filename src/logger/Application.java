@@ -1,10 +1,10 @@
-package videoCurriculum;
+package logger;
 
 public class Application {
 
 	public static void main(String[] args) {
 
-		LoggerVideo logger = new FileLogger();
+		LoggerVideo logger = new ConsoleLogger();
 		
 		logger.info("Hello");
 		logger.warning("This is a warning");

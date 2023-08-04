@@ -1,4 +1,4 @@
-package videoCurriculum;
+package logger;
 
 public interface LoggerVideo {
 	

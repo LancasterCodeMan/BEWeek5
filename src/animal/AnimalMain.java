@@ -1,4 +1,4 @@
-package curriculum;
+package animal;
 
 public class AnimalMain {
 

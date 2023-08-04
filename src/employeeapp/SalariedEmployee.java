@@ -1,4 +1,4 @@
-package videoCurriculum;
+package employeeapp;
 
 public class SalariedEmployee extends Employee {
 	

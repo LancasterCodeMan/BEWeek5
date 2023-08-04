@@ -1,4 +1,4 @@
-package videoCurriculum;
+package employeeapp;
 
 public class HourlyEmployee extends Employee{
 	

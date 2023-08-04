@@ -1,4 +1,4 @@
-package videoCurriculum;
+package employeeapp;
 
 public abstract class Employee {
 	

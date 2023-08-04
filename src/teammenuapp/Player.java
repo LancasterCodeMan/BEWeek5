@@ -1,4 +1,4 @@
-package videoCurriculum;
+package teammenuapp;
 
 public class Player {
 	

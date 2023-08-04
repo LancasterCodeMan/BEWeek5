@@ -1,22 +1,21 @@
-package curriculum;
+package animal;
 
 public class Animal {
 
-	String name;
-	String type;
-	double weight;
-	double height;
-	String location;
+	private String name;
+	private String type;
+	private double weight;
+	private double height;
+	private String location;
 
-	public Animal() {
-	}
+	public Animal() {}
 
-	public Animal(String name, String type, double weight, double height, String location) {
-		this.name = name;
-		this.type = type;
-		this.weight = weight;
-		this.height = height;
-		this.location = location;
+public Animal(String name, String type, double weight, double height, String location) {
+	this.name = name;
+	this.type = type;
+	this.weight = weight;
+	this.height = height;
+	this.location = location;
 	}
 
 	public String getType() {
@@ -24,8 +23,9 @@ public class Animal {
 	}
 
 	public void setType(String type) {
-		this.type = type;
+			this.type = type;
 	}
+		
 
 	public double getWeight() {
 		return this.weight;

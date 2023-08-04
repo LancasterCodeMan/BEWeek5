@@ -1,4 +1,6 @@
-package videoCurriculum;
+package schoolapp;
+
+
 
 public class Encapsulation {
 
@@ -9,9 +11,6 @@ public class Encapsulation {
 		student.setPhoneNumber("1234567890");
 		student.introduce();
 		
-		Rectangle rec = new Rectangle(10.0, 15.0);
-		rec.setLength(10);
-		System.out.println(rec.getArea());
 
 		/* 
 		 * Access Modifiers:

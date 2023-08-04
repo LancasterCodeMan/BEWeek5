@@ -1,4 +1,4 @@
-package videoCurriculum;
+package teammenuapp;
 
 import java.util.ArrayList;
 import java.util.List;

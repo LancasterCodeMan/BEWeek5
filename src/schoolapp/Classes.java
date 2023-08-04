@@ -1,4 +1,4 @@
-package videoCurriculum;
+package schoolapp;
 
 public class Classes {
 

@@ -1,4 +1,4 @@
-package videoCurriculum;
+package logger;
 
 import java.util.Date;
 

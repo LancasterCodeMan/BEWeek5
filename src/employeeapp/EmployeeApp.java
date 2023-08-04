@@ -1,6 +1,6 @@
-package videoCurriculum;
+package employeeapp;
 
-public class InheritanceAbstractionPolymorphism {
+public class EmployeeApp {
 
 	public static void main(String[] args) {
 		
